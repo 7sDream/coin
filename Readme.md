@@ -26,7 +26,7 @@ Default coin emoji is 🌝 and 🌚, set `FISH_COIN_EMOJI_USE_FACE` to `0` to us
 
 Default FPS is 24，you can change it with `FISH_COIN_FPS`. **Notice: show character need time too, so the higher the FPS, the bigger deviation, so lower than 30 is recommended**
 
-Default waiting time is 1s before show the result, change with `FISH_COIN_WAIT`(millisecond)。
+Default waiting time is 1s before show the result, change with `FISH_COIN_WAIT_TIME`(millisecond)。
 
 Example: 
 
