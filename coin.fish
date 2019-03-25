@@ -37,7 +37,7 @@ function coin
   set -l i 0
   while test "$i" -lt "$wait"
     for COIN in "$MOON_EMOJI_LIGHT" '🌖' '🌗' '🌘' "$MOON_EMOJI_DARK" '🌒' '🌓' '🌔'
-      echo -n "$BACKSPACE$COIN"
+      echo -en "$BACKSPACE$COIN"
       sleep $delay;
       set i (math "$i" + 1)
     end
