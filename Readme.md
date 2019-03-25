@@ -2,6 +2,8 @@
 
 A script for toss a coin in the shell.
 
+![](http://rikka.7sdre.am/files/97d1aed3-8f66-485d-9b98-61e3b535a673.gif)
+
 ## Origin
 
 Origin zsh script by [@Coder89757](https://www.v2ex.com/member/Coder89757)：https://www.v2ex.com/t/548388
