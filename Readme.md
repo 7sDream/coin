@@ -5,6 +5,7 @@ A script for toss a coin in the shell.
 ## Origin
 
 Origin zsh script by [@Coder89757](https://www.v2ex.com/member/Coder89757)：https://www.v2ex.com/t/548388
+
 Fish port by [@coldnight](https://github.com/coldnight)：https://gist.github.com/coldnight/5c9964769e9a39bf17bb767c88e8c366
 
 I make this repo just for quick install with [fisher](https://github.com/jorgebucaran/fisher) or [omf](https://github.com/oh-my-fish/oh-my-fish).
